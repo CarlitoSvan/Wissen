@@ -4,7 +4,7 @@ Exit Vim
   :wq                         
   ZZ                          
   
-  Move
+Move
   h     left
   j     down
   k     up
