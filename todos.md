@@ -11,10 +11,12 @@ git checkout  zwischen existierenden Branches hin- und herschalten/ Branch eines
 git revert    rückgängig machen des letzten commit durch einen Neuen 
 git reset --hard  alle Änderungen seit dem letzten commit verwerfen 
 git tag           zeigt in der Repository vorhandene Tags 
+git clone+ URL     Repository lokal ziehen
 ```
 ## Kommandozeilenbefehle
 ```
-cd        auf übergeordnetes Verzeichnis wechseln
+cd+ +Verzeichns
+cd+ ..        auf übergeordnetes Verzeichnis wechseln
 mkdir     (make directory) neues Verzeichnis erstellen 
 ls        (list) Inhalte im Verzeichnis anzeigen 
 pwd       (print working directory) zeige aktuelles Verzeichnis

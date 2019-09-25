@@ -5,7 +5,11 @@ Exit Vim
   ZZ                          
   
 Move
+<<<<<<< HEAD
   h     left (logical line)
+=======
+  h     left
+>>>>>>> 5bc07c7e97cdf7fcb86ef5d7545c3b67cae68d4d
   j     down
   k     up
   l     right
