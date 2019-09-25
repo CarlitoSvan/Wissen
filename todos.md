@@ -15,7 +15,8 @@ git clone+ URL     Repository lokal ziehen
 ```
 ## Kommandozeilenbefehle
 ```
-cd        auf übergeordnetes Verzeichnis wechseln
+cd+ +Verzeichns
+cd+ ..        auf übergeordnetes Verzeichnis wechseln
 mkdir     (make directory) neues Verzeichnis erstellen 
 ls        (list) Inhalte im Verzeichnis anzeigen 
 pwd       (print working directory) zeige aktuelles Verzeichnis
